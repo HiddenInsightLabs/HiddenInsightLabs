@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi, I'm Erin.
+I'm the founder of Hidden Insight Labs — a testing studio focused on how software actually behaves in the wild, across real devices, real users, and real conditions.
+
+After years inside software teams, I kept seeing the same gap: things that passed internal checks would quietly break once they reached users. I build tools and structured processes, backed by a pool of 100+ real-world testers across devices and platforms, to surface those issues earlier, with a particular focus on mobile, augmented reality, and AI-assisted workflows.
+
+Here you'll find open work on LLM reliability profiling, hallucination auditing, and the tooling that supports it.
+
+
 
 <!--
 **HiddenInsightLabs/HiddenInsightLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
